@@ -1,2 +1,2 @@
 # Challenge-Amigo-Secreto
-Implementacion delchallenge Amigo Secreto
+Implementacion del challenge Amigo Secreto
